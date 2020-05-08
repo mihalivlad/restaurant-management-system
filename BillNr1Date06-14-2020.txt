@@ -1,0 +1,5 @@
+Order: id=1, date=06/14/2020, table=7
+Menu item: name=pizza, price=4.0
+Menu item: name=pizza, price=4.0
+Menu item: name=mere, price=2.0
+Total Price: 10.0
